@@ -8,7 +8,7 @@ setup (
     version="1.0.0",
     Description="Python appliction that merges and adds music to your videos.",
     long_description=long_description,
-    long_description_content_type="Text/markdown",
+    long_description_content_type="text/markdown",
     author="Totenkopf",
     license="MIT",
 #     classifiers=[
