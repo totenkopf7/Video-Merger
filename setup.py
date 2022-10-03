@@ -11,11 +11,11 @@ setup (
     long_description_content_type="Text/markdown",
     author="Totenkopf",
     license="MIT",
-    classifiers=[
-        "Development Status : 4- Beta",
-        "Intended Audience : Developers and Normal Users",
-        "LICENSE : OSI Approved : MIT LICENSE"
-    ],
+#     classifiers=[
+#         "Development Status : 4- Beta",
+#         "Intended Audience : Developers and Normal Users",
+#         "LICENSE : OSI Approved : MIT LICENSE"
+#     ],
     keywords="Video Merger and Music Adding Tool",
     packages=find_packages(),
     install_requires=["requests>=2"],
