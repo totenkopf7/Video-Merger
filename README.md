@@ -5,7 +5,7 @@ video merger is a small Python application that will facilitate merging your vid
 C:\VersionofYourPython\python.exe main.py
 
 # Installation
-$pip install VideoMerger
+pip install -i https://test.pypi.org/simple/ Video-Merger
 
 # Usage
 Just by seeing the Graphical User Intterface, you can get through it, as it is easy to use.
