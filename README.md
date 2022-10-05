@@ -1,5 +1,5 @@
 # Video Merger
-video merger is a small Python application that will facilitate merging your video clips all together, as well as adding mp3 music to any video you want.
+Video Merger is a useful GUI Python application that will facilitate merging your video clips all together, as well as adding MP3 music to any video you want.
 
 # Run
 C:\VersionofYourPython\python.exe main.py
